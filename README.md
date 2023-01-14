@@ -8,5 +8,5 @@ meus conhecimentos em CSS.
 Link para acessar o Mockup do projeto: https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1&t=XMg4ZN6V3VCjzxgH-1
 
 🛠 Tecnologias
-HTML
+HTML e 
 CSS
